@@ -1,0 +1,10 @@
+@import url('https://luckfire.github.io/amoled-cord/src/amoled-cord.css');
+
+:root{
+    --font: 
+        "Terminus (TTF) for Windows", 
+        "MS UI Gothic";
+    --font-primary: var(--font) !important;
+    --font-display: var(--font) !important;
+    --font-header:  var(--font) !important;
+}
