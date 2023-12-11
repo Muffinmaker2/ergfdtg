@@ -3,7 +3,7 @@
 :root{
     --font: 
         "Terminus (TTF) for Windows", 
-        "MS UI Gothic";
+        "DotGothic16";
     --font-primary: var(--font) !important;
     --font-display: var(--font) !important;
     --font-header:  var(--font) !important;
