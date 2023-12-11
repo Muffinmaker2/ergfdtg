@@ -1,8 +1,7 @@
 @import url('https://luckfire.github.io/amoled-cord/src/amoled-cord.css');
 
 :root{
-    --font: 
-        "Terminus (TTF) for Windows", 
+    --font:  
         "DotGothic16";
     --font-primary: var(--font) !important;
     --font-display: var(--font) !important;
